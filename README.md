@@ -1,1 +1,1 @@
-"# NotePad with C -- 2 Example"  
+"# NotePad with C"  
